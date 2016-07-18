@@ -3,3 +3,4 @@ merge dev --no-ff
 test reset
 reset two commit
 other coder commit
+this is dev alter
