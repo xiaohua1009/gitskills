@@ -4,4 +4,5 @@ test reset
 reset two commit
 other coder commit
 this is dev alter
-dev first commt
+dev first commit
+dev second commit
