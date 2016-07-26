@@ -1,3 +1,4 @@
 first
 rebase first
 rebase second
+rebase three
