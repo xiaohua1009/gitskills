@@ -2,3 +2,4 @@ test
 checkout
 checkout -m
 first
+rebase first
