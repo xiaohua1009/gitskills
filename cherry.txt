@@ -2,3 +2,4 @@ first
 rebase first
 rebase second
 rebase three
+rebase four
